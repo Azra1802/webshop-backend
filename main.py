@@ -10,11 +10,7 @@ from routes.orderRoutes import router as order_router
 app = FastAPI()
 
 
-origins = [
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-    "https://webshop-frontend-amber.vercel.app/"
-]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
