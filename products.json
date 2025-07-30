@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Elysian Mist",
+    "description": "A delicate blend of jasmine and rose.",
+    "price": 34.99,
+    "image_url": "/img/sample.jpg",
+    "quantity": 20,
+    "id": 1,
+    "publish_date": "2025-07-25 10:00:00"
+  },
+  {
+    "name": "Amber Nights",
+    "description": "Warm amber with hints of vanilla and musk.",
+    "price": 44.5,
+    "image_url": "/img/1.jpg",
+    "quantity": 15,
+    "id": 2,
+    "publish_date": "2025-07-25 11:00:00"
+  },
+  {
+    "name": "Citrus Breeze",
+    "description": "Fresh and energizing with lemon and bergamot.",
+    "price": 29.99,
+    "image_url": "/img/2.jpg",
+    "quantity": 30,
+    "id": 3,
+    "publish_date": "2025-07-25 12:00:00"
+  },
+  {
+    "name": "Velvet Woods",
+    "description": "Earthy and woody with sandalwood and cedar.",
+    "price": 52.0,
+    "image_url": "/img/3.jpg",
+    "quantity": 12,
+    "id": 4,
+    "publish_date": "2025-07-25 13:00:00"
+  },
+  {
+    "name": "Ocean Whisper",
+    "description": "Clean marine scent with sea salt and jasmine.",
+    "price": 38.75,
+    "image_url": "/img/4.jpg",
+    "quantity": 22,
+    "id": 5,
+    "publish_date": "2025-07-25 14:00:00"
+  },
+  {
+    "name": "Golden Spice",
+    "description": "Exotic spices with cinnamon and clove notes.",
+    "price": 47.99,
+    "image_url": "/img/5.jpg",
+    "quantity": 18,
+    "id": 6,
+    "publish_date": "2025-07-25 15:00:00"
+  },
+  {
+    "name": "Lavender Dream",
+    "description": "Relaxing lavender with a touch of vanilla.",
+    "price": 27.0,
+    "image_url": "/img/6.jpg",
+    "quantity": 25,
+    "id": 7,
+    "publish_date": "2025-07-25 16:00:00"
+  },
+  {
+    "name": "Midnight Rose",
+    "description": "Deep floral scent perfect for evenings.",
+    "price": 56.0,
+    "image_url": "/img/7.jpg",
+    "quantity": 10,
+    "id": 8,
+    "publish_date": "2025-07-25 17:00:00"
+  },
+  {
+    "name": "Saffron Glow",
+    "description": "Luxurious saffron blended with ambergris.",
+    "price": 60.5,
+    "image_url": "/img/8.jpg",
+    "quantity": 8,
+    "id": 9,
+    "publish_date": "2025-07-25 18:00:00"
+  },
+  {
+    "name": "Fresh Meadow",
+    "description": "Green and crisp with notes of freshly cut grass.",
+    "price": 32.0,
+    "image_url": "/img/9.jpg",
+    "quantity": 20,
+    "id": 10,
+    "publish_date": "2025-07-25 19:00:00"
+  },
+  {
+    "name": "Royal Oud",
+    "description": "Rich oud fragrance with leather undertones.",
+    "price": 65.0,
+    "image_url": "/img/10.jpg",
+    "quantity": 7,
+    "id": 11,
+    "publish_date": "2025-07-26 10:00:00"
+  },
+  {
+    "name": "Peach Blossom",
+    "description": "Sweet and fruity with peach and nectarine.",
+    "price": 28.5,
+    "image_url": "/img/11.jpg",
+    "quantity": 25,
+    "id": 12,
+    "publish_date": "2025-07-26 11:00:00"
+  },
+  {
+    "name": "Silver Mist",
+    "description": "Cool and fresh with hints of mint and eucalyptus.",
+    "price": 35.75,
+    "image_url": "/img/12.jpg",
+    "quantity": 18,
+    "id": 13,
+    "publish_date": "2025-07-26 12:00:00"
+  },
+  {
+    "name": "Vanilla Sky",
+    "description": "Smooth vanilla scent with subtle caramel notes.",
+    "price": 40.0,
+    "image_url": "/img/13.jpg",
+    "quantity": 16,
+    "id": 14,
+    "publish_date": "2025-07-26 13:00:00"
+  },
+  {
+    "name": "Wild Orchid",
+    "description": "Exotic orchid and jasmine blend.",
+    "price": 42.5,
+    "image_url": "/img/14.jpg",
+    "quantity": 14,
+    "id": 15,
+    "publish_date": "2025-07-26 14:00:00"
+  },
+  {
+    "name": "Mystic Forest",
+    "description": "Green notes with pine and cedarwood.",
+    "price": 49.99,
+    "image_url": "/img/15.jpg",
+    "quantity": 13,
+    "id": 16,
+    "publish_date": "2025-07-26 15:00:00"
+  },
+  {
+    "name": "Sandalwood Silk",
+    "description": "Creamy sandalwood with amber highlights.",
+    "price": 45.0,
+    "image_url": "/img/16.jpg",
+    "quantity": 19,
+    "id": 17,
+    "publish_date": "2025-07-26 16:00:00"
+  },
+  {
+    "name": "Cinnamon Flame",
+    "description": "Spicy cinnamon with warm vanilla notes.",
+    "price": 37.5,
+    "image_url": "/img/17.jpg",
+    "quantity": 21,
+    "id": 18,
+    "publish_date": "2025-07-26 17:00:00"
+  },
+  {
+    "name": "Jasmine Glow",
+    "description": "Bright jasmine with fresh citrus hints.",
+    "price": 33.0,
+    "image_url": "/img/18.jpg",
+    "quantity": 24,
+    "id": 19,
+    "publish_date": "2025-07-26 18:00:00"
+  },
+  {
+    "name": "Midnight Musk",
+    "description": "Dark musk fragrance for a bold impression.",
+    "price": 50.0,
+    "image_url": "/img/19.jpg",
+    "quantity": 11,
+    "id": 20,
+    "publish_date": "2025-07-26 19:00:00"
+  }
+]
