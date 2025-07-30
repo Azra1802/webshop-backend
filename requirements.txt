@@ -1,4 +1,5 @@
 fastapi
 uvicorn
 gunicorn==23.0.0
+pydantic[email]
 packaging==25.0
